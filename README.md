@@ -33,9 +33,9 @@ GET /wallets/{walletId}/transactions
 
 
 Tech Requirements:
-• Language: Java (version 17 or higher)
-• Framework: Spring Boot
-• Database: MySQL
-• Architecture: Microservice-style (single service is fine)
-• API Design: Follow RESTful principles
-• Build Tool: Maven 
+1. Language: Java (version 17 or higher)
+2. Framework: Spring Boot
+3. Database: MySQL
+4. Architecture: Microservice-style (single service is fine)
+5. API Design: Follow RESTful principles
+6. Build Tool: Maven 
