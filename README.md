@@ -36,6 +36,6 @@ Technologies Used:
 1. Language: Java (version 17)                                               
 2. Framework: Spring Boot                                              
 3. Database: MySQL                                                                  
-4. Architecture: Microservice-style (single service is fine)                                             
-5. API Design: Follow RESTful principles                                                        
+4. Architecture: Microservice-style (single service)                                             
+5. API Design: Followed RESTful principles
 6. Build Tool: Maven                                                           
