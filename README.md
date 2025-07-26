@@ -7,7 +7,7 @@ It provides RESTful APIs that allow users to:
 4.View transaction history.  
 The application uses MySQL as the database to persist wallet and transaction data.
 
-Core Features to Implement:
+Core Features:
 1. Create Wallet             
    POST /wallets                     
            Inputs: userId, initialBalance                              
@@ -32,7 +32,7 @@ Core Features to Implement:
         Shows all credit/debit operations for a wallet                                                     
 
 
-Tech Requirements:                                            
+Technologies Used:                                            
 1. Language: Java (version 17)                                               
 2. Framework: Spring Boot                                              
 3. Database: MySQL                                                                  
