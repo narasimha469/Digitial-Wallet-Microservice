@@ -1,5 +1,5 @@
 # Digitial-Wallet-Microservice
-This project is a Digital Wallet Microservice developed as part of the technical assignment for Damyant Fintech.  
+This project is a Digital Wallet Microservice developed as part of the technical assignment for Damyant Fintech.   
 It provides RESTful APIs that allow users to:        
 1.Create wallets  
 2.Add or deduct funds  
